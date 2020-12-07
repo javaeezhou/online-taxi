@@ -5,3 +5,17 @@ D
 cloud-eureka/pom.xml,a\6\a6e78da2037c575235bbee55a41aeb106a71c06f
 m
 =cloud-eureka/src/main/java/com/zq/CloudEurekaApplication.java,2\c\2ca11f81f0f9bf8d3ed75c51a3a62b4a63f363af
+G
+cloud-eureka/.gitignore,a\3\a3c7997071145eb7f0c30008f8f4398839ab90cf
+r
+Bcloud-eureka/src/test/java/com/zq/CloudEurekaApplicationTests.java,6\0\60e95176dfaf5ae5aa211631278d689af3fe90bc
+b
+2cloud-eureka/.mvn/wrapper/maven-wrapper.properties,1\f\1f3364dd4bc1cf87ddcf53464e44203488dd4820
+e
+5cloud-eureka/.mvn/wrapper/MavenWrapperDownloader.java,a\1\a1e5370c76653f7381a9749f8ffbc7019e258473
+A
+cloud-eureka/mvnw,0\f\0f906d3e9de08220245977c995e036a86e23895f
+E
+cloud-eureka/mvnw.cmd,e\5\e599587ea7aa02348b5b9075c1af5031801afd7a
+?
+online-taxi.iml,b\9\b98204723fd1b1c65db2489ecc35f8878c02cbb3
